@@ -1,7 +1,7 @@
 package commands
 
 import (
-	sshd "gossh/core/sshd"
+	sshd "github.com/tozhengxq/gossh/core/sshd"
 	"log"
 	"os"
 

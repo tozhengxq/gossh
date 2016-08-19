@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"gossh/core/commands"
-	"gossh/core/conf"
-	"gossh/core/glog"
+	"github.com/tozhengxq/gossh/core/commands"
+	"github.com/tozhengxq/gossh/core/conf"
+	"github.com/tozhengxq/gossh/core/glog"
 	"strconv"
 )
 
